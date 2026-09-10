@@ -1,0 +1,11 @@
+{
+  "results": {
+    "selector": "div.s-result-item.s-asin",
+    "type": "list",
+    "output": {
+      "link": { "selector": "a.a-link-normal", "output": "@href" },
+      "name": "span.a-size-medium.a-color-base.a-text-normal",
+      "price": "span.a-offscreen"
+    }
+  }
+}
