@@ -2,9 +2,11 @@
 
 <p align="center">
   <a href="https://www.scrapingbee.com/">
-    <img src="REPLACE_WITH_SCREENSHOT_URL" alt="nocode-amazon" />
+    <img src="https://github.com/user-attachments/assets/e6938ee5-91d4-4040-947c-016e1457e4c0" alt="nocode-amazon" />
   </a>
 </p>
+
+
 
 [![checks](https://github.com/ScrapingBee/nocode-amazon/workflows/checks/badge.svg)](https://github.com/ScrapingBee/nocode-amazon/actions)
 [![pypi](https://img.shields.io/pypi/v/nocode-amazon.svg)](https://pypi.org/project/nocode-amazon/)
