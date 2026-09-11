@@ -6,8 +6,6 @@
   </a>
 </p>
 
-
-
 [![checks](https://github.com/ScrapingBee/nocode-amazon/workflows/checks/badge.svg)](https://github.com/ScrapingBee/nocode-amazon/actions)
 [![pypi](https://img.shields.io/pypi/v/nocode-amazon.svg)](https://pypi.org/project/nocode-amazon/)
 [![python](https://img.shields.io/pypi/pyversions/nocode-amazon.svg)](https://pypi.org/project/nocode-amazon/)
@@ -205,10 +203,6 @@ Filter the `products` array on `is_sponsored`. The endpoint labels every result,
 
 **Which Amazon marketplaces work?**
 Any of them, through `domain`. Pass the top level domain, for example `domain=co.uk` or `domain=in`.
-
-## Credits
-
-Built and maintained by [wordstotech](https://github.com/wordstotech-design). Powered by ScrapingBee. Source article: [Scrape Amazon products' price with no code](https://www.scrapingbee.com/blog/nocode-amazon/).
 
 ## License
 
